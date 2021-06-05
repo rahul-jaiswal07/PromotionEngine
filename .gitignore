@@ -1,0 +1,11 @@
+/PromotionEngine/bin
+/PromotionEngine/obj
+/PromotionEngine.Common/bin
+/PromotionEngine.Common/obj
+/PromotionEngine.Core/obj
+/PromotionEngine.Core/bin
+/PromotionEngine.Core.Test/obj
+/PromotionEngine.Data/obj
+/PromotionEngine.Data.Test/obj
+/PromotionEngine.Model/obj
+/.vs

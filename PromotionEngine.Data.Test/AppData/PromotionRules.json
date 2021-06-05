@@ -1,0 +1,22 @@
+[
+  {
+    "PromoId": 1,
+    "PromoCode": "Promo1",
+    "Description": "Buy 3 SKU item A and get it for 130$",
+    "PromoCondition": {
+      "Name": [ "A", "A", "A" ],
+      "PromotionType": 1,
+      "Discount": 130.0
+    }    
+  },
+  {
+    "PromoId": 2,
+    "PromoCode": "Promo2",
+    "Description": "Buy 3 SKU item B and get it for 130$",
+    "PromoCondition": {
+      "Name": [ "B", "B", "B" ],
+      "PromotionType": 1,
+      "Discount": 100.0
+    }
+  }
+]

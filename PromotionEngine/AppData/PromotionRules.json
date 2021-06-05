@@ -1,0 +1,32 @@
+[
+  {
+    "PromoId": 1,
+    "PromoCode": "Promo1",
+    "Description": "Buy 3 SKU item A for Rs 130",
+    "PromoCondition": {
+      "Name": [ "A", "A", "A" ],
+      "PromotionType": 1,
+      "Discount": 130.0
+    }
+  },
+  {
+    "PromoId": 2,
+    "PromoCode": "Promo2",
+    "Description": "Buy 2 SKU item B for Rs 45",
+    "PromoCondition": {
+      "Name": [ "B", "B" ],
+      "PromotionType": 1,
+      "Discount": 45.0
+    }
+  },
+  {
+    "PromoId": 3,
+    "PromoCode": "Promo3",
+    "Description": "Buy C And D for Rs 30",
+    "PromoCondition": {
+      "Name": [ "C", "D" ],
+      "PromotionType": 1,
+      "Discount": 30.0
+    }
+  }
+]
